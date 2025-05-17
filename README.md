@@ -1,9 +1,10 @@
 # Steam_PS_Xbox_Statistic
 A data analysis project comparing Steam, PlayStation and Xbox platforms in terms of player distribution, game prices and total spending across countries. Includes visualizations, statistics, and market insights.
 
-## Detaylı analiz ve sonuçlar için [rapor.pdf](docs/rapor.pdf) dosyasına bakabilirsiniz.
+## Proje Dosyaları detaylı analiz
 
-## kodlara ise [Steam_PS_Xbox_Statistic_Code.ipynb] dosyasından göz atabilirsiniz 
+- `rapor.pdf` — Detaylı analiz ve sonuç raporu  
+- `Steam_PS_Xbox_Statistic_Code.ipynb` — Analiz ve görselleştirme kodları  
 
 # Dijital Oyun Platformları Küresel Pazar Analizi
 Proje Hakkında
