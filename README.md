@@ -3,7 +3,7 @@ A data analysis project comparing Steam, PlayStation and Xbox platforms in terms
 
 ## Detaylı analiz ve sonuçlar için [rapor.pdf](docs/rapor.pdf) dosyasına bakabilirsiniz.
 
-# kodlara ise [Steam_PS_Xbox_Statistic_Code.jpynb] dosyasından göz atabilirsiniz 
+## kodlara ise [Steam_PS_Xbox_Statistic_Code.ipynb] dosyasından göz atabilirsiniz 
 
 # Dijital Oyun Platformları Küresel Pazar Analizi
 Proje Hakkında
